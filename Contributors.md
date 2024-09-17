@@ -7989,5 +7989,5 @@ vivek saskar
 - [Edward Magtoto](https://github.com/Kiydo) **First step with open-source!**
 - [Abhishek Patel](https://github.com/patelabhi1607) **First step with open-source!**
 
-
+- [Gaurav](https://github.com/Gaurav-Lodhi10/first-contributions) **First step with open-source!**
   ​                                                           
